@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Marquis
-- 🌱 I’m currently learning Python Chess
-- 📫 How to reach me - Discord: marquiseco
+- 🌱 I’m currently learning machine learning and C
+- 📫 How to reach me - Discord: marquisburg
